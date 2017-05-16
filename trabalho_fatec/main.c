@@ -29,7 +29,7 @@ int main(int argc, char **argv)
             break;
 
         default:
-            printf("Coloque um argumento! \n")
+            printf("Coloque um argumento para ontinuar a excução! \n")
             return 0;
             break;
     }
