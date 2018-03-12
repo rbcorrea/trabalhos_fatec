@@ -16,3 +16,9 @@ Linguagem utilizada: `C`
 -   3 - Palíndromo:
 
     [Source Code](./palindrome.c)
+
+
+### Exercícios dia 26/02:
+
+>Foi passada um código que faz uma pilha. Ele está [aqui](./pilha.c).  
+
