@@ -20,11 +20,11 @@ O foco da aula foi estruturas de repetição, operador ternário e operadores co
 
 1. Imprimir os N primeiros números da série de Fibonacci.
 
-    [Source Code](./Fibonacci/Fibonacci.java)
+    [Source Code](./fibonacci/Fibonacci.java)
 
 2. Imprimir somente os pares até N.
 
-    [Source Code](./even-number/even-number.java)
+    [Source Code](./even-number/Even-number.java)
 
 3. Inversão de número
 
