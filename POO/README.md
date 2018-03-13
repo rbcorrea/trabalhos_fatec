@@ -16,6 +16,17 @@
 
 ### Exercícios do dia 12-03-2018:
 
+O foco da aula foi estruturas de repetição, operador ternário e operadores compactos.
+
 1. Imprimir os N primeiros números da série de Fibonacci.
 
     [Source Code](./Fibonacci/Fibonacci.java)
+
+2. Imprimir somente os pares até N.
+
+    [Source Code](./even-number/even-number.java)
+
+3. Inversão de número
+
+    [Source Code](./inverter/Inverter.java)
+
