@@ -13,3 +13,9 @@
 3. Conversor Celsius para Fahrenheit:
 
     [Source Code](./average/Converter.java)  
+
+### Exercícios do dia 12-03-2018:
+
+1. Imprimir os N primeiros números da série de Fibonacci.
+
+    [Source Code](./Fibonacci/Fibonacci.java)
