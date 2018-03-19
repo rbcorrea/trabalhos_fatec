@@ -39,10 +39,10 @@ O foco da aula foi estruturas de repetição, operador ternário e operadores co
     [Source Code](./factorial/FactorialPoorMans.java)  
     Algumas explicações para o método se encontram aqui:
 
-    [Através de divisão binária](http://numbers.computation.free.fr/Constants/Algorithms/splitting.html)
-    [Outra fonte aqui](https://people.eecs.berkeley.edu/~fateman/papers/factorial.pdf)
-    [Prime Swing](http://www.luschny.de/math/factorial/java/FactorialParallelPrimeSwing.java.html)
-    [Exemplos](http://www.luschny.de/math/factorial/FastFactorialFunctions.htm)
+    [Através de divisão binária](http://numbers.computation.free.fr/Constants/Algorithms/splitting.html)  
+    [Outra fonte aqui](https://people.eecs.berkeley.edu/~fateman/papers/factorial.pdf)  
+    [Prime Swing](http://www.luschny.de/math/factorial/java/FactorialParallelPrimeSwing.java.html)  
+    [Exemplos](http://www.luschny.de/math/factorial/FastFactorialFunctions.htm)  
 
 5. **Novo X**
 
